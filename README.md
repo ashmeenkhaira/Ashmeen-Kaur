@@ -1,4 +1,4 @@
-![𝓪𝓷𝓲𝓶𝓮](https://github.com/user-attachments/assets/ad0b1e7e-9f7e-4069-8685-8d7d535a1dd3)💫 About Me:
+💫 About Me:
 <div align="center">
     <img src="https://i.postimg.cc/Y9NbKkPv/image.gif" alt="Your Banner" style="width:100%">
 </div>

@@ -1,6 +1,6 @@
 💫 About Me:
 <div align="center">
-    <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" alt="Your Banner" style="width:100%">
+    <img src="https://pin.it/7Y2vbrODr" alt="Your Banner" style="width:100%">
 </div>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=My+name+is+[YOUR_NAME];Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" /></a>

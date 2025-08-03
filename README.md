@@ -1,6 +1,6 @@
-💫 About Me:
+![𝓪𝓷𝓲𝓶𝓮](https://github.com/user-attachments/assets/ad0b1e7e-9f7e-4069-8685-8d7d535a1dd3)💫 About Me:
 <div align="center">
-    <img src="https://pin.it/7Y2vbrODr" alt="Your Banner" style="width:100%">
+    <img src="https://i.postimg.cc/Y9NbKkPv/image.gif" alt="Your Banner" style="width:100%">
 </div>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=My+name+is+[YOUR_NAME];Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" /></a>

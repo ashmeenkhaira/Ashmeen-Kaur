@@ -20,10 +20,10 @@
             </p>
             <p> I like: </p>
             <ul>
-                <li>🧠 Developing & optimizing deep learning models with measurable performance improvements.</li>
-                <li>🎨 Leveraging creative problem-solving skills to build innovative AI solutions & generative applications.</li>
-                <li>🤖 Engineering and fine-tuning LLMs for production-ready intelligent systems.</li>
-                <li>🔬 Contributing to cutting-edge AI research with upcoming publication & staying ahead of industry trends.</li>
+                <li>🧠 Training & optimizing deep learning models for production deployment.</li>
+                <li>🎨 Building generative AI solutions with creative problem-solving expertise.</li>
+                <li>🤖 Fine-tuning LLMs for scalable, enterprise-ready applications.</li>
+                <li>🔬 Conducting AI research with upcoming publication & industry impact.</li>
             </ul>
             <p> Always up for learning new things and building cool projects. 🚀 </p>
         </td>

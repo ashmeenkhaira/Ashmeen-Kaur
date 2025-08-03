@@ -35,20 +35,13 @@
 
 ## 🌐 Socials:
 <div align="center">
-<h3>📱 Find me on social media</h3>
-<p>
-<a href="https://linkedin.com/in/manpreet-singh-68718a20b" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/ashmeen/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/DevManpreet5" target="_blank">
-<img src="https://img.shields.io/github/followers/DevManpreet5?label=Follow&style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub followers" />
+<a href="https://x.com/ashmeenkkaira?s=21" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<a href="mailto:your.email@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-</p>
 </div>
-
 ## 💻 Tech Stack:
 
 ### 🔥 Machine Learning & AI  

@@ -35,21 +35,18 @@
 
 ## 🌐 Socials:
 <div align="center">
+<h3>📱 Find me on social media</h3>
+<p>
 <a href="https://linkedin.com/in/manpreet-singh-68718a20b" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/manpreet-singh-68718a20b" alt="LinkedIn" height="35"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
 </a>
-&nbsp;
 <a href="https://github.com/DevManpreet5" target="_blank">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="35"/>
+<img src="https://img.shields.io/github/followers/DevManpreet5?label=Follow&style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub followers" />
 </a>
-&nbsp;
 <a href="mailto:your.email@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="35"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-&nbsp;
-<a href="https://twitter.com/yourusername" target="_blank">
-<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="35"/>
-</a>
+</p>
 </div>
 
 ## 💻 Tech Stack:

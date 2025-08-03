@@ -34,22 +34,21 @@
 </table>
 
 ## 🌐 Socials:
-
 <div align="center">
 <a href="https://linkedin.com/in/manpreet-singh-68718a20b" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn" height="40"/>
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/manpreet-singh-68718a20b" alt="LinkedIn" height="35"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/DevManpreet5" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub" height="40"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="35"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:your.email@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Gmail" height="40"/>
+<img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" height="35"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://portfolio.manpreet.dev" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=FF7139&color=FF7139" alt="Portfolio" height="40"/>
+&nbsp;
+<a href="https://twitter.com/yourusername" target="_blank">
+<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="35"/>
 </a>
 </div>
 

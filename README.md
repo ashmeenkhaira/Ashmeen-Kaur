@@ -1,24 +1,24 @@
 💫 About Me:
 <div align="center">
-    <img src="https://i.postimg.cc/Y9NbKkPv/image.gif" alt="Your Banner" style="width:100%">
+    <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" alt="Your Banner" style="width:100%">
 </div>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=My+name+is+[YOUR_NAME];Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" /></a>
 </div>
+About Me
 <div align="left">
-    <h2>About Me</h2>
     <table>
         <tr>
             <td width="70%">
-                <p> Hey! 👋 I'm a <strong>[YOUR_ROLE]</strong> who enjoys working with  
+                <p> Hey! 👋 I'm an <strong>[YOUR_ROLE]</strong> who enjoys working with  
                     <strong>[YOUR_MAIN_TECHNOLOGIES]</strong>.  
                 </p>
                 <p> I like: </p>
                 <ul>
-                    <li>🚀 [Your interest 1]</li>
-                    <li>💻 [Your interest 2]</li>
-                    <li>🎯 [Your interest 3]</li>
-                    <li>🔍 [Your interest 4]</li>
+                    <li>🧠 [Your interest 1 - e.g., Training deep learning models & optimizing performance]</li>
+                    <li>🎨 [Your interest 2 - e.g., Working with modern frameworks for scalable applications]</li>
+                    <li>📊 [Your interest 3 - e.g., Building data pipelines and system architecture]</li>
+                    <li>🔍 [Your interest 4 - e.g., Exploring new technologies & improving existing solutions]</li>
                 </ul>
                 <p> Always up for learning new things and building cool projects. 🚀 </p>
             </td>
@@ -32,44 +32,83 @@
 Show Image
 Show Image
 Show Image
+Show Image
 💻 Tech Stack:
-🔥 [Your Primary Domain - e.g., Machine Learning & AI]
+🔥 Machine Learning & AI
 Show Image
 Show Image
 Show Image
-<!-- Add your primary tech stack badges here -->
-📊 [Your Secondary Domain - e.g., Web Development]
 Show Image
 Show Image
 Show Image
-<!-- Add your secondary tech stack badges here -->
-🌐 [Your Third Domain - e.g., Backend Development]
 Show Image
 Show Image
 Show Image
-<!-- Add your third tech stack badges here -->
+📊 MLOps
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🌐 Backend Development
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🎨 Frontend Development
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 🔡 Programming Languages
 Show Image
 Show Image
 Show Image
-<!-- Add your programming languages here -->
+Show Image
+Show Image
+Show Image
+Show Image
+☁️ Cloud & DevOps
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 🚀 Featured Projects:
 
-Project Name 1 - Brief description of what it does
-Project Name 2 - Brief description of what it does
-Project Name 3 - Brief description of what it does
+Project Name 1 - Brief description of what it does and technologies used
+Project Name 2 - Brief description of what it does and technologies used
+Project Name 3 - Brief description of what it does and technologies used
 
 🏆 Achievements:
 
-🎯 [Your achievement 1]
-🌟 [Your achievement 2]
-🏅 [Your achievement 3]
+🎯 [Your achievement 1 - e.g., Built ML model with 95% accuracy]
+🌟 [Your achievement 2 - e.g., Contributed to open-source projects]
+🏅 [Your achievement 3 - e.g., Led team of 5 developers]
 
-<details>
-  <summary><h2>📊 GitHub Stats</h2></summary>
+📊 GitHub Stats:
+<div align="center">
 Show Image
-Show Image<br/>
 Show Image
-</details>
+Show Image
+</div>
+📈 Activity Graph:
+Show Image
 
-⭐ From YOUR_GITHUB_USERNAME
+<div align="center">
+💭 Random Dev Quote
+Show Image
+🔝 Top Contributed Repo
+Show Image
+</div>
+
+⭐️ From YOUR_GITHUB_USERNAME

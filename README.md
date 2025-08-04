@@ -6,9 +6,11 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=My+name+is+Ashmeen+Kaur;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=My+name+is+Ashmeen+Kaur;Welcome+to+my+GitHub+%E2%9C%A8&color=FF69B4" alt="Typing SVG" />
     </a>
 </div>
+
+
 
 ## 👋 About Me
 
